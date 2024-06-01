@@ -11,7 +11,7 @@ list_2 = []  # данный способ быстрее и проще
 list_3 = list((3.14, True, 'Hello world!'))
 list_4 = [3.14, True, 'Hello world!']
 
-print(list_1)
-print(list_2)
-print(list_3)
-print(list_4)
+print(list_1)  # []
+print(list_2)  # []
+print(list_3)  # [3.14, True, 'Hello world!']
+print(list_4)  # [3.14, True, 'Hello world!']
